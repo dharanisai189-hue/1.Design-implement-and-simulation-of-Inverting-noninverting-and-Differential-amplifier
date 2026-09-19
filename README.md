@@ -34,6 +34,10 @@ A circuit that amplifies that amplifies the difference between two input signals
 𝐴	= 	𝑉𝑜/(V2-V1) = −𝑅𝑓/R1
 
 **DESIGN:**
+<img width="1600" height="1421" alt="design 1" src="https://github.com/user-attachments/assets/e2d946e0-b229-4415-8a6d-73a7c6f021f5" />
+<img width="1599" height="1066" alt="design 2" src="https://github.com/user-attachments/assets/4d250f23-71be-40dd-ba7c-061765cc6f35" />
+
+
 
 **Inverting amplifier:**
     Gain is     A = -Rf/R1
@@ -73,36 +77,54 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="1600" height="1176" alt="pin" src="https://github.com/user-attachments/assets/bbb9b769-58ab-406c-b8d8-55c8b9cef1fb" />
+
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1386" height="1600" alt="circuit invert" src="https://github.com/user-attachments/assets/9fab87a1-345e-4fb7-b253-253013c028dc" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1600" height="1128" alt="invert model" src="https://github.com/user-attachments/assets/af981ec0-8388-4839-bdff-073f8222e734" />
+
 
 
   **TABULATION:**
+  <img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 05 19 AM" src="https://github.com/user-attachments/assets/183adb6e-0647-42b1-ac75-803955e27c73" />
+
  
 
 **MODEL CALCULATION:**
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1200" alt="WhatsApp Image 2026-09-19 at 5 53 26 AM" src="https://github.com/user-attachments/assets/82a11b09-b0e4-4f07-be92-ef36c4af9f8b" />
+
 
 
   **MODEL GRAPH:**
 
 
   **TABULATION:**
+  <img width="1600" height="496" alt="WhatsApp Image 2026-09-19 at 5 53 31 AM" src="https://github.com/user-attachments/assets/dfe3c16a-e588-4f5d-af70-c35ff3a5f683" />
+
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1199" alt="WhatsApp Image 2026-09-19 at 5 53 27 AM" src="https://github.com/user-attachments/assets/b811c648-17f4-4428-b886-57ce9dfa9463" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1599" height="898" alt="WhatsApp Image 2026-09-19 at 5 53 30 AM" src="https://github.com/user-attachments/assets/91659993-224c-485b-9d4d-9f324eb72a9a" />
+
 
 
   **TABULATION:**
+  <img width="1600" height="1200" alt="WhatsApp Image 2026-09-19 at 5 53 31 AM (1)" src="https://github.com/user-attachments/assets/456fe571-ae69-4bf1-ba77-33792784588f" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,7 +137,10 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="957" height="1600" alt="WhatsApp Image 2026-09-19 at 5 53 34 AM (2)" src="https://github.com/user-attachments/assets/bbf9d5b5-f349-4c49-ab9e-8d319c92e0d7" />
+
+  <img width="1158" height="1380" alt="WhatsApp Image 2026-09-19 at 5 53 36 AM" src="https://github.com/user-attachments/assets/2d9d1f5a-ba57-4ac7-8144-067af9975ac2" />
+
 
 **RESULT:**
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
