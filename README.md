@@ -139,7 +139,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
   **CIRCUIT and Waveform**
   <img width="957" height="1600" alt="WhatsApp Image 2026-09-19 at 5 53 34 AM (2)" src="https://github.com/user-attachments/assets/bbf9d5b5-f349-4c49-ab9e-8d319c92e0d7" />
 
-  <img width="1158" height="1380" alt="WhatsApp Image 2026-09-19 at 5 53 36 AM" src="https://github.com/user-attachments/assets/2d9d1f5a-ba57-4ac7-8144-067af9975ac2" />
+ <img width="1380" height="1158" alt="image" src="https://github.com/user-attachments/assets/9c189b53-1055-4ace-83f7-2ba09a8a5120" />
 
 
 **RESULT:**
